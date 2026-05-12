@@ -57,4 +57,4 @@ Na końcu dane są prezentowane na ekranie w prostym i czytelnym układzie.
 Aplikacja wymaga dostępu do lokalizacji użytkownika.
 
 ## Autor
-Kamil Domian
+Karolina Domian
